@@ -6,8 +6,8 @@ Initial Capital   : ₹ 10,000.00
 Final Capital     : ₹ 21,135.24   (+111.35%)
 Total PnL         : ₹+11,135.24
 Total Txn Costs   : ₹  1,836.19
-Max Drawdown      : -9.18%
-Sharpe Ratio      : 11.52
+Max Drawdown      : -3.17%
+Sharpe Ratio      : 4.14
 Sortino Ratio     : 27.87
 Calmar Ratio      : 12.14
 Win Rate          : 66.7%
