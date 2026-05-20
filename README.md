@@ -25,6 +25,6 @@ Expectancy/Trade  : +3.4753%  (Random: +4.3075%)
 
   Saved: intraday_trades_log.csv | intraday_equity_curve.csv
 ================================================================================
-
+```
 
 <img width="1000" height="600" alt="Backtested Results" src="https://github.com/user-attachments/assets/bc10f4de-e52b-4988-bafe-a5ae6c2977cc" />
